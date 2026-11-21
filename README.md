@@ -21,7 +21,7 @@ Built with plain **HTML, CSS and JavaScript** (no frameworks, no build step) plu
 
 **Install once:** [Node.js](https://nodejs.org/en/download) (the **LTS** version) and a code editor such as [VS Code](https://code.visualstudio.com/download). The steps are the same on macOS, Windows and Linux, in any terminal (Terminal, PowerShell, the VS Code terminal…).
 
-1. Download the code as a zip: https://forge.digitalya.co/digitalya/geolocation-app-best-iasi-workshop/archive/master.zip
+1. Download the code as a zip from this repository.
 2. Unzip it and open the folder in your editor (in VS Code: *File → Open Folder…*).
 3. Open a terminal in that folder (in VS Code: *Terminal → New Terminal*) and run:
 
