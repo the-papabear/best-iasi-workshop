@@ -2,6 +2,14 @@
 
 A small web app that shows your live location on a map, along with the friends who share their location with you.
 
+## Workshop links
+
+- 📊 [Presentation slides](https://docs.google.com/presentation/d/105Ls3TH1tVDod59e1hOzrA0MUWA6poAvyRFvrt9svxk/edit?slide=id.g3abc664b05c_0_0#slide=id.g3abc664b05c_0_0)
+- 📝 [Exercises: Deploy & HTTPS](https://forms.gle/M1uh8kiQE8qpJie47)
+- 📝 [Exercises: Authentication](https://forms.gle/XN6fw758W59aH1eY7)
+- 📝 [Exercises: Authorization](https://forms.gle/VsHuUUgsRxvqdGDb6)
+- 💬 [Feedback form](https://forms.gle/Qqc9HCMzCvgeMWLV8)
+
 Built with plain **HTML, CSS and JavaScript** (no frameworks, no build step) plus:
 
 - [Leaflet](https://leafletjs.com/) + [OpenStreetMap](https://www.openstreetmap.org/) for the map

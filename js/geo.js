@@ -35,10 +35,6 @@ export function watchMyPosition(onPosition, onError) {
   return () => navigator.geolocation.clearWatch(watchId);
 }
 
-// TODO 2a (extra): Each error should get the right message. Test them:
-// - DevTools → Sensors → Location: "Location unavailable", then reload.
-// - Block the location permission (icon left of the address bar), then reload.
-// Does the message match what you did? Docs: https://developer.mozilla.org/en-US/docs/Web/API/GeolocationPositionError/code
 function describeError(error) {
   switch (error.code) {
     case error.POSITION_UNAVAILABLE:
